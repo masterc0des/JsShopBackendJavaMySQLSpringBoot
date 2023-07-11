@@ -1,0 +1,24 @@
+CRUD
+
+C       R      U       D
+Create  Read   Update  Delete
+Post    Get    Patch   Delete  [HTTP]
+Create  Select Alter   Drop    [SQL]
+
+CRUD simply do some task on existing data and these 4 operations make our data dynamically accessible
+
+-----------------------------------------------------------------------------------------------------
+
+What is DAO?
+
+DAO (Data Access Object) is an object design pattern to differentiate how the
+data is being processed, in simple terms, to separate the business logic and the
+programming logic.
+
+The audience of a token is the intended recipient of the token. The audience value is a string -- typically, the base address of the resource being accessed,
+such as https://contoso.com . The client_id in OAuth refers to the client application that will be requesting resources from the Resource Server.
+
+Implicit/Widening casting = casting from a shorter range to a wider range e.g. from short to int
+Explicit/Shortening casting = casting from a wider range to a shorter range
+
+Spring @Value annotation is used to assign default values to variables and method arguments.
